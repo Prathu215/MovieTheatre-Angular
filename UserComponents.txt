@@ -1,0 +1,88 @@
+Home component
+singup component
+login component
+fogotpassword component
+movies component
+theaters component
+show date and time component
+ticket type component
+payment component
+offers component
+aboutus component
+contactus component
+ratings component (direct from plural sight)
+CRUD movie component ( direct form plural sight)
+rated movie component
+
+::note:click on logo to go home.
+
+Home component
+--------------------
+includes..
+
+brand, logo
+navbar, ( login, movies, theaters, offers, aboutus and contact us)
+footer
+<router outlet></router outlet>
+
+css: fontawesome, bootstrap glypicons
+
+singup component
+-----------------
+registration form
+
+login component
+-------------------
+two images on either side
+login form
+singup button
+forgot password button
+submit button
+
+forgot password component
+---------------------------------
+text box to enter email
+submit button
+
+movies component
+------------------
+list of movie images with names
+
+theater component
+---------------------
+click on movie image > show  theaters component with times
+
+ticket type component
+---------------------
+
+click on theater > show ticket type component
+
+payment component
+--------------------
+
+click on ticket type > payment component
+
+offers component
+-----------------
+1 large pizza with 2 toppings for $7.99 only
+
+contact us component and abouts us component
+----------------------------------------------
+git pull
+git status
+git add .
+git commit -m "message"
+git push
+
+
+git status will tell y
+
+1st git clone --- link copy here
+
+
+
+
+
+
+
+
